@@ -1,2 +1,2 @@
 # Python
- Enhancing the future with python..
+ Enhancing the future with python
